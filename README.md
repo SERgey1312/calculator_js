@@ -1,5 +1,4 @@
 # CALCULATOR
-***
 Deploy:
 
 <https://sergey1312.github.io/calculator_js/>
