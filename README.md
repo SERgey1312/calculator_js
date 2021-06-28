@@ -1,5 +1,5 @@
 # CALCULATOR
-Deploy:
+Деплой на github pages:
 
 <https://sergey1312.github.io/calculator_js/>
 
